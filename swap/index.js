@@ -1,3 +1,6 @@
+#these API's are old and have been depreciated
+
+
 import { Connection, Keypair, VersionedTransaction } from '@solana/web3.js';
 import { Wallet } from '@project-serum/anchor';
 import bs58 from 'bs58';
